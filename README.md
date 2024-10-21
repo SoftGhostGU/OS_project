@@ -1,6 +1,6 @@
 # OS_project
 
-## OS_project_1
+## OS_project_1 - Threads
 
 I uploaded the codes in the package "threads" and "devices", which are the most important documents in the project-1. 
 
